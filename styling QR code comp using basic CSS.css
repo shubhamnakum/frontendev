@@ -1,0 +1,38 @@
+.main{
+    background-color: #e6eeff;
+}
+.box{
+    margin-top: 8%;
+    margin-left: 39%;
+    margin-right: 39%;
+    margin-bottom: 5%;
+    padding:1%;
+    padding-bottom:2%;
+    border-radius: 5%;
+    background-color: white;
+
+}
+.image{
+    margin:0%;
+    border: 1px solid blue;
+    max-width:100%;
+    border-radius:5%;
+    
+}
+
+
+p,h3{
+    font-family: 'Calibri',sans-serif;
+    text-align: center;
+}
+
+h3{
+    color:#4d4d4d;
+}
+
+
+p{
+    color:#999999;
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
